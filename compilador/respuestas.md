@@ -41,8 +41,9 @@ línea 39, **add_numbers:**.
 
 Los símbolos que aparece son la posición de memoria, el descriptor y
 la entrada. Los dos descriptores que aparecen son *T* y *U*. Las
-letras en mayúsculas indican que son accesbiles. La *U* indica que no
-está definido y la *T*, que es texto (o sea, código ejecutable).
+letras en mayúsculas indican que son accesibles desde el exterior. La
+*U* indica que no está definido y la *T*, que es texto (o sea, código
+ejecutable).
 
 ### Pregunta 5
 
